@@ -1,0 +1,6 @@
+/DisasterMedicalSupport/target/
+/DisasterMedicalResponse/target/
+/DisasterMedicalResponse/nbproject/
+DisasterMedicalResponse/src/main/java/.DS_Store
+*.json
+DisasterMedicalResponse/src/main/java/disastermedicalresponse/Business/.DS_Store
